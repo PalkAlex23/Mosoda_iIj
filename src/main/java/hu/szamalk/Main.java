@@ -9,5 +9,6 @@ public class Main {
         mosoda.bevesz(new Ruha("Orbán Károly"));
         mosoda.bevesz(new Ruha("Álmos Gergő"));
         mosoda.bevesz(new Ruha("Eperjes István"));
+        mosoda.kiir();
     }
 }
